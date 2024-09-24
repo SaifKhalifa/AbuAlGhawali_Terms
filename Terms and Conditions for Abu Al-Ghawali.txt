@@ -1,0 +1,43 @@
+## **Terms and Conditions**
+
+### 1. **Introduction**
+These Terms and Conditions ("Terms") govern your use of the mobile game **Abu Al-Ghawali** (the "Game"). By downloading, installing, or using the Game, you agree to be bound by these Terms. If you do not agree to these Terms, please do not download, install, or use the Game.
+
+### 2. **In-App Purchases**
+- The Game includes in-app purchases for virtual items such as coins, characters, and subscription services.
+- All purchases are processed through **Google Play** and are subject to their payment and refund policies.
+- Purchased virtual items are for use exclusively within the Game and have **no real-world monetary value**. These virtual items cannot be transferred to other users, sold outside of the Game, or exchanged for cash.
+- Once a purchase is made, it **cannot be refunded** unless specifically allowed by **Google Play’s refund policy**.
+
+### 3. **User Data Collection**
+- The Game does not collect personal data directly. Any personal information collected during in-app purchases is handled exclusively by **Google Play** in accordance with their **Privacy Policy**.
+- No additional data is collected by the developer, except as required to fulfill transactions through **Google Play** or as allowed by users in accordance with **Google’s Terms of Service**.
+
+### 4. **User Comments**
+- Users may leave comments or reviews for the Game via **Google Play**. These comments are governed by Google’s **Terms of Service** and **Community Guidelines**.
+- The developer does not moderate, edit, or control comments posted on the Google Play Store but reserves the right to report inappropriate or abusive comments to **Google Play** for review.
+
+### 5. **Rules of Conduct**
+To ensure a safe and enjoyable experience for all players, you agree to follow these rules while using the Game:
+- **No Cheating or Hacking**: You may not use any unauthorized third-party tools, software, or scripts to modify or hack the Game.
+- **Respectful Behavior**: Any form of harassment, abusive language, or inappropriate behavior toward other players will result in immediate suspension or termination of your account.
+- **No Unauthorized Sales or Trades**: Virtual items purchased in the Game may not be resold, transferred, or traded outside the Game. Any attempt to do so is strictly prohibited.
+- **No Exploitation of Bugs or Glitches**: If you encounter a bug or glitch in the Game, report it to the developer. Intentionally exploiting bugs for personal gain may result in penalties, including suspension.
+
+### 6. **Subscription Services**
+- **Subscription services** offer access to premium content and in-game benefits. These subscriptions automatically renew unless canceled by the user before the renewal date.
+- Subscriptions are managed through **Google Play**, and users can modify or cancel their subscriptions directly via their **Google Play account settings**.
+- If a subscription is canceled, access to premium content may be revoked at the end of the current billing cycle.
+
+### 7. **Limitation of Liability**
+The Game is provided on an **"as is"** and **"as available"** basis, without any warranties, express or implied, including, but not limited to, implied warranties of merchantability or fitness for a particular purpose. The developer is not responsible for:
+- Any **losses, damages, or issues** arising from the use or inability to use the Game, including but not limited to technical errors, bugs, glitches, or data loss.
+- Any **unauthorized access to your account** resulting from your failure to secure your login credentials.
+- Any **third-party content** or services accessed through the Game, including advertisements or in-app purchases from third-party providers.
+
+### 8. **Changes to These Terms**
+The developer reserves the right to modify these Terms at any time. Any changes will be posted within the Game or on the developer’s website. **Continued use of the Game** after changes to the Terms constitutes your acceptance of the revised Terms. If you do not agree to the updated Terms, you must stop using the Game.
+
+### 9. **Contact Information**
+For any inquiries, issues, or concerns regarding these Terms or the Game, you may contact the developer at:  
+**[105gamesps@gmail.com]**  
